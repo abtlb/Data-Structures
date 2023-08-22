@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1D5686EF-71A2-4073-9635-17CC939718C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures/Graph.cs">
+    <Files>
+      <File FileName="DataStructures/Program.cs" Line="77" Column="23" />
+      <File FileName="DataStructures/Graph.cs" Line="638" Column="3" />
+      <File FileName="DataStructures/UnionFind.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStructures" expanded="True">
+            <Node name="DataStructures" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataStructures PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
