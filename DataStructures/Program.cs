@@ -76,5 +76,3 @@ int[] edges5 =
 g5.ConstructGraphWeighted(edges5);
 g5.ShortestPath(1, 4);
 
-Graph g6 = new Graph(6, 6, false);
-
